@@ -1,0 +1,19 @@
+clic derecho en tables
+poner nombre de la tabla
+agregar columnas con el cuarto símbolo
+
+si tenemos la version 8:
+crear una carpeta nueva Ejemplo dentro del repositorio
+"md prueba" en la terminal
+
+cd prueba
+
+dotnet new console
+
+copian el program.cs al otro program.cs
+
+no nos va a tomar los datos
+
+dentro de la carpeta
+dotnet add package Microsoft.Data.SQLite
+
